@@ -1,4 +1,4 @@
-# Boilerplate code for full stack projects
+# NextJs 14 Boilerplate code for full stack projects
 
 ## Contains
 - Turborepo
